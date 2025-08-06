@@ -45,8 +45,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielMcDowell&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMcDowell&layout=compact&theme=tokyonight)
 
 ---
 ## 📫 Let’s Connect
